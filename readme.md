@@ -1,0 +1,1 @@
+# googlecolab用のスクリプト
